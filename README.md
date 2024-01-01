@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="100"/>
+</div>
+
+
 <!--
 **Jdanielcode1/Jdanielcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
