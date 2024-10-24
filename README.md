@@ -83,4 +83,4 @@ I'm a passionate Computer Science student at Tecnológico de Monterrey, with a s
 Table Tennis | AI | Podcasts | Literature | Philosophy
 
 ---
-*"If you can think it, you can build it* 🚀
+*"If you can think it, you can build it"* 🚀
