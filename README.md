@@ -1,86 +1,66 @@
-### Hi there, I'm Daniel Cantú👋
-
-<div id="header" align="left">
+# Hi there, I'm Daniel Cantú 👋
 
 
-<div id="badges" align="left">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
-  
+## 🎓 Full Stack Developer | UC Berkeley CS Student | Interested In Product Managmenet
 
-# Hi there! I'm Daniel Cantu 👋
+I'm a passionate Computer Science student with a focus on building innovative solutions using modern web technologies and AI. Currently developing projects that combine cutting-edge tech with practical business applications.
 
-## 🎓 Computer Science Student | Full Stack Developer | AI Enthusiast
+### 🔭 Current Projects
+- **TestBuilder Platform**: Next.js 14 platform for test creation and management
+- **Recursive Pioneers**: AI Agents platform for task hierarchy management
+- **VisionOS Medical Learning Platform**: Spatial computing application for medical education
 
-I'm a passionate Computer Science student at Tecnológico de Monterrey, with a strong focus on full-stack development and AI technologies. I'll be joining UC Berkeley's Startup Semester Program in Spring 2025! 🚀
+### 💻 Technical Skills
 
-### 🔭 Currently Working On
-- Founder & Solo Developer at Subsidine - A multi-tenant order management platform
-- AI-Powered Presales Management Platform at Neoris
-- Getting my CAPM certification (Exam scheduled for November 2024)
+#### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- SwiftUI/VisionOS
 
-### 💼 Professional Experience
-- **Subsidine** - *Founder & Solo Developer*
-  - Built a full-stack platform that reduced order processing time by 75%
-  - Tech stack: NextJS, Javascript, Supabase, PostgreSQL, PostgREST
-  
-- **ProjectCoach** - *Software Engineer Intern*
-  - Developed SaaS candidate evaluation solution
-  - Improved process efficiency by 80%
-  
-- **yCo, Center of Innovation and Social Impact** - *iOS Developer*
-  - Implemented user authentication using Firebase and SwiftUI
-  - Built intuitive interfaces and optimized app performance
+#### Backend & Databases
+- PostgreSQL
+- Supabase
+- Firebase
+- MySQL
+- Express.js
 
-### 🛠️ Technical Skills
-- **Languages**: Python, SQL, C++, JavaScript, TypeScript, Swift, SwiftUI
-- **Frontend**: NextJS, ReactJS, HTML, CSS
-- **Backend**: PostgreSQL, MySQL, Firebase, Supabase
-- **AI/ML**: Langchain, Vector Embeddings, RAG, LLMs
-- **DevOps**: Docker, Google Cloud, Github Actions, CI/CD
+#### AI & Cloud
+- Langchain
+- RAG (Retrieval-Augmented Generation)
+- Google Cloud Platform
+- Vector Embeddings
+- Ollama/LLMs
 
-### 🏆 Notable Projects
-- **AI-Powered Presales Management Platform**
-  - Full-stack solution using PostgreSQL, Supabase, Langchain, and Next.js
-  - Implemented RAG with vector embeddings and Ollama for LLMs
+#### DevOps & Tools
+- Docker
+- Git
+- CI/CD
+- Vercel
+-Github Actions
 
-- **3D Anatomy Rendering Application for VisionOS**
-  - Built with Swift and ARKit for spatial computing
-  - Selected as top project for 50th Anniversary Computer Science Conference
+### 🚀 Featured Projects
 
-- **YouTube Clone using Google Cloud**
-  - Implemented using Cloud Storage, Pub/Sub, Cloud Run
-  - Built with Next.js, TypeScript, and Express.js
+#### AI-Powered Presales Management Platform (Neoris)
+- Full-stack AI solution using PostgreSQL, Supabase, Langchain
+- Implemented RAG with vector embeddings and Ollama
+- Microsoft Teams API integration for collaboration
 
-### 🎯 Achievements
-- 5th Place in Grand Prix International Collegiate Programming Contest (ICPC) 2023
-- Accepted into Berkeley Startup Semester Program for Spring 2025
-- GPA: 91.15/100 (3.5 US GPA)
+#### Video Processing Cloud Platform
+- Microservices architecture using Google Cloud services
+- Event-driven video processing pipeline
+- Firebase Authentication and Docker containerization
 
-### 📚 Education
-**Tecnológico de Monterrey**
-- B.S. in Computer Science and Technology
-- Expected Graduation: December 2025
-- Exchange Semester at UC Berkeley (Spring 2025)
+#### Spatial Computing Medical Platform
+- VisionOS application with 3D organ visualization
+- Built with Swift, SwiftUI, RealityKit, and ARKit
+- Featured at CS program's 50th anniversary
 
-### 🌟 Certifications
-- Google Cloud Computing Foundations (2023)
-- IELTS C1 English Level (7.5 score)
-- CAPM Prep Course (In Progress)
+### 📫 Let's Connect
+- LinkedIn: [José Daniel Cantú](https://www.linkedin.com/in/josé-daniel-cantú-cantú-8a5910242)
+- Email: josedaniel.cantu@berkeley.edu
+- Portfolio: https://portafolio-beta-eight.vercel.app/
 
-### 🗣️ Languages
-- Spanish (Native)
-- English (C1 Level)
 
-### 📫 How to reach me
-- 📧 Email: A01284664@tec.mx
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-daniel-cant%C3%BA-cant%C3%BA-8a5910242)
-- 🌐 [Portfolio](https://endearing-toffee-de1f41.netlify.app/)
-
-### 🎯 Interests
-Table Tennis | AI | Podcasts | Literature | Philosophy
-
----
-*"If you can think it, you can build it"* 🚀
