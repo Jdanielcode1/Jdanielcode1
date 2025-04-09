@@ -2,7 +2,7 @@
 
 
 
-## 🎓 Full Stack Developer | UC Berkeley CS Student | Interested In Product Managmenet
+## 🎓 Full Stack Developer | UC Berkeley CS Student | Interested In Product Management
 
 I'm a passionate Computer Science student with a focus on building innovative solutions using modern web technologies and AI. Currently developing projects that combine cutting-edge tech with practical business applications.
 
